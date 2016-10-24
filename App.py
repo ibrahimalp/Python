@@ -1,0 +1,1 @@
+print"dogru yerdesin"
