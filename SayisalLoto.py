@@ -22,13 +22,10 @@ while b<6:
 			b+=1
 	else:
 		print("aralik disi 1-49 arasinda giriniz!")
-c=0
 list3=[];
 for i1 in range(0,6):
 	for i2 in range(0,6):
 		if list1[i1]==list2[i2]:
 			list3.append(list1[i1])
-		else:
-			c+=1
 dogru_sys=len(list3)
 print ("Dogru bilinen numaralar =",list3,"%d Bildin" % dogru_sys)

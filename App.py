@@ -1,1 +1,1 @@
-print"dogru yerdesin"
+print("burasi")
