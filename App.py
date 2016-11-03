@@ -1,1 +1,1 @@
-print("burasi")
+print "burasi
